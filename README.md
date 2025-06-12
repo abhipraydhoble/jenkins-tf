@@ -23,6 +23,8 @@ stage view
 - add access key and secret key
 
 ## create pipeline
+
+- generate pipeline syntax for git and aws credentials
 ````
 pipeline {
     agent any 
